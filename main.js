@@ -1,4 +1,4 @@
 const {logShared} = require('./shared/utils');
 
-console.log('main loaded');
+console.log('repo a main loaded');
 logShared();
